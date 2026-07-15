@@ -28,3 +28,14 @@ View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-th
 
 =========
 For more details, read [documentation](http://jekyllrb.com/)
+
+# Run local
+
+```shell
+docker build -t agency-jekyll . && \                                      
+docker run --rm \
+  -p 4000:4000 \
+  -p 35729:35729 \
+  -v "$PWD:/site" \
+  agency-jekyll
+```
