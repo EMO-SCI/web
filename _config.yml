@@ -9,38 +9,41 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Prof. Dr. Stefan Dietze
   pic: 1
-  position: Lead Designer
+  position: Project Owner
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/stefandietze/
+    - title: globe
+      url: https://stefandietze.wordpress.com
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Prof. Dr. Konstantin Todorov
+  pic: 2
+  position: Project Owner
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/konstantin-todorov-7b79ab3ab/
+    - title: globe
+      url: https://www.lirmm.fr/konstantin-todorov/
+
+- name: Prof. Dr. Achim Rettinger
+  pic: 3
+  position: Project Owner
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/achim-rettinger/
+    - title: globe
+      url: https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/computerlinguistik-und-digital-humanities/team/prof-dr-achim-rettinger
+
+- name: Dr. Marc Feger
+  pic: 4
+  position: Senior Researcher
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/marc-feger/
+    - title: globe
+      url: https://www.marc-feger.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
