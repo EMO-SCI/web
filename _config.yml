@@ -14,10 +14,13 @@ people:
   position: Project Owner
   social:
     - title: linkedin
+      family: brands
       url: https://www.linkedin.com/in/stefandietze/
     - title: bluesky
+      family: brands
       url: https://bsky.app/profile/dietzestefan.bsky.social
     - title: globe
+      family: solid
       url: https://stefandietze.wordpress.com
 
 - name: Prof. Dr. Konstantin Todorov
@@ -25,8 +28,10 @@ people:
   position: Project Owner
   social:
     - title: linkedin
+      family: brands
       url: https://www.linkedin.com/in/konstantin-todorov-7b79ab3ab/
     - title: globe
+      family: solid
       url: https://www.lirmm.fr/konstantin-todorov/
 
 - name: Prof. Dr. Achim Rettinger
@@ -34,8 +39,10 @@ people:
   position: Project Owner
   social:
     - title: linkedin
+      family: brands
       url: https://www.linkedin.com/in/achim-rettinger/
     - title: globe
+      family: solid
       url: https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/computerlinguistik-und-digital-humanities/team/prof-dr-achim-rettinger
 
 - name: Dr. Marc Feger
@@ -43,22 +50,23 @@ people:
   position: Senior Researcher
   social:
     - title: linkedin
+      family: brands
       url: https://www.linkedin.com/in/marc-feger/
     - title: globe
+      family: solid
       url: https://www.marc-feger.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    family: brands
+    url: https://github.com/EMO-SCI
+  - title: a
+    family: solid
+    url: https://anr.fr/en/funded-projects-and-impact/funded-projects/project/funded/project/b2d9d3668f92a3b9fbbf7866072501ef-8808056006/?tx_anrprojects_funded%5Bcontroller%5D=Funded&cHash=77922bf7aa6c22801ac191e3f7af14b6
+  - title: g
+    family: solid
+    url: https://gepris.dfg.de/project/569156112?lang=en
 
 # Postal address (add as many lines as necessary)
 address:
