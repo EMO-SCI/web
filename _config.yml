@@ -47,7 +47,7 @@ people:
 
 - name: Dr. Marc Feger
   pic: 4
-  position: Senior Researcher
+  position: Postdoc Researcher
   social:
     - title: linkedin
       family: brands
@@ -55,6 +55,25 @@ people:
     - title: globe
       family: solid
       url: https://www.marc-feger.com
+
+- name: Florencia Brunello
+  pic: 5
+  position: PhD Student
+  social:
+    - title: linkedin
+      family: brands
+      url: https://www.linkedin.com/in/florenciabrunello/
+    - title: github
+      family: brands
+      url: https://github.com/florbrunello
+
+- name: Vetea Jacot
+  pic: 6
+  position: PhD Student
+  social:
+    - title: gitlab
+      family: brands
+      url: https://framagit.org/Vetea_Jacot
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
