@@ -9,6 +9,18 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
+
+- name: Prof. Dr. Konstantin Todorov
+  pic: 2
+  position: Project Owner
+  social:
+    - title: linkedin
+      family: brands
+      url: https://www.linkedin.com/in/konstantin-todorov-7b79ab3ab/
+    - title: globe
+      family: solid
+      url: https://www.lirmm.fr/konstantin-todorov/
+
 - name: Prof. Dr. Stefan Dietze
   pic: 1
   position: Project Owner
@@ -22,17 +34,6 @@ people:
     - title: globe
       family: solid
       url: https://stefandietze.wordpress.com
-
-- name: Prof. Dr. Konstantin Todorov
-  pic: 2
-  position: Project Owner
-  social:
-    - title: linkedin
-      family: brands
-      url: https://www.linkedin.com/in/konstantin-todorov-7b79ab3ab/
-    - title: globe
-      family: solid
-      url: https://www.lirmm.fr/konstantin-todorov/
 
 - name: Prof. Dr. Achim Rettinger
   pic: 3
@@ -77,6 +78,17 @@ people:
     - title: github
       family: brands
       url: https://github.com/florbrunello
+
+- name: Nils Schwager
+  pic: 8
+  position: PhD Student
+  social:
+    - title: linkedin
+      family: brands
+      url: https://www.linkedin.com/in/nils-schwager/
+    - title: github
+      family: brands
+      url: https://nsschw.github.io
 
 - name: Vetea Jacot
   pic: 6
