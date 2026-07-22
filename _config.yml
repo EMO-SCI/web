@@ -86,8 +86,8 @@ people:
     - title: linkedin
       family: brands
       url: https://www.linkedin.com/in/nils-schwager/
-    - title: github
-      family: brands
+    - title: globe
+      family: solid
       url: https://nsschw.github.io
 
 - name: Vetea Jacot
