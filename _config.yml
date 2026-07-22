@@ -45,9 +45,20 @@ people:
       family: solid
       url: https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/computerlinguistik-und-digital-humanities/team/prof-dr-achim-rettinger
 
+- name: Dr. Salim Hafid
+  pic: 7
+  position: Postdoctoral Researcher
+  social:
+    - title: linkedin
+      family: brands
+      url: https://linkedin.com/in/salimhafid1
+    - title: globe
+      family: solid
+      url: https://salim-hafid.github.io/
+
 - name: Dr. Marc Feger
   pic: 4
-  position: Postdoc Researcher
+  position: Postdoctoral Researcher
   social:
     - title: linkedin
       family: brands
